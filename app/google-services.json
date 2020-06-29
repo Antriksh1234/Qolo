@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "636712616787",
+    "firebase_url": "https://qolo-382ca.firebaseio.com",
+    "project_id": "qolo-382ca",
+    "storage_bucket": "qolo-382ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636712616787:android:6fe96bd4a46745a5ed57a6",
+        "android_client_info": {
+          "package_name": "com.example.qolo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636712616787-d6b9q9kokqglg8c7v4gokl54fit67j7i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.qolo",
+            "certificate_hash": "adef6d75930ad2f413792106c4fb1075ce3c86ff"
+          }
+        },
+        {
+          "client_id": "636712616787-auvhoejjinnpu45gmoioasu3ed1q87ci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoGejdkchF4NVVI0IhBSHxFX8eRut3VeM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "636712616787-auvhoejjinnpu45gmoioasu3ed1q87ci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
